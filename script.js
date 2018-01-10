@@ -1,3 +1,7 @@
+window.onload = function name() {
+	document.getElementById('myTable').innerHTML = myvar;
+}
+
 var arrObj = [{"language":"Java", "numberOfUsers":"125,718,403", "downside":"Frameworks revolt! It's Java Spring"},
 {"language":".NET", "numberOfUsers":"64,371,473", "downside":"PHP forces to clean twice per week"},
 {"language":"PHP", "numberOfUsers":"75,383,142", "downside":"Misunderstood by Java and .NET Developers"},
@@ -21,4 +25,4 @@ for(var i = 0; i < objLength; i++){
 myvar += '</table>';
 
 console.log(myvar);
-document.getElementById('myTable').innerHTML = myvar;
+// document.getElementById('myTable').innerHTML = myvar;
