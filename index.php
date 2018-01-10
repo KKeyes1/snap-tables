@@ -13,20 +13,22 @@
 			</tr>
 			<tr>
 				<td>Java</td>
-				<td>.NET</td>
-				<td>PHP</td>
-				<td>Ruby</td>
-			</tr>
-			<tr>
 				<td>125,718,403</td>
-				<td>64,371,473</td>
-				<td>75,383,142</td>
-				<td>1,403</td>
+				<td>Frameworks revolt! It's Java Spring!!</td>
 			</tr>
 			<tr>
-				<td>Frameworks revolt! It's Java Spring!!</td>
+				<td>.NET</td>
+				<td>64,371,473</td>
 				<td>PHP forces to clean twice per week</td>
+			</tr>
+			<tr>
+				<td>PHP</td>
+				<td>75,383,142</td>
 				<td>Misunderstood by Java and .NET Developers</td>
+			</tr>
+			<tr>
+				<td>Ruby</td>
+				<td>1,403</td>
 				<td>Only for Hipster Driven Development (HDD)</td>
 			</tr>
 		</table>
