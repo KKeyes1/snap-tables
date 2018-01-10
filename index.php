@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
+		<script type="text/javascript" src="script.js"></script>
 		<title>Snap-Tables</title>
 	</head>
 	<body>
@@ -31,6 +32,9 @@
 				<td>1,403</td>
 				<td>Only for Hipster Driven Development (HDD)</td>
 			</tr>
+			<div id="myTable">
+
+			</div>
 		</table>
 	</body>
 </html>
