@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<script type="text/javascript" src="script.js"></script>
+		<link rel="stylesheet" type="text/css" href="stylesheet.css" />
 		<title>Snap-Tables</title>
 	</head>
 	<body>
