@@ -3,10 +3,11 @@
 	<head>
 		<meta charset="UTF-8">
 		<script type="text/javascript" src="script.js"></script>
-		<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+		<link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
 		<title>Snap-Tables</title>
 	</head>
 	<body>
+		<h1>Web Languages</h1>
 		<table>
 			<tr>
 				<th>Language</th>
