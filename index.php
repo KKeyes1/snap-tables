@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<titl>Snap-Tables</titl>
+		<title>Snap-Tables</title>
 	</head>
 	<body>
 		<table>
